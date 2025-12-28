@@ -1,7 +1,7 @@
 {
   "name": "ranking-of-champions-ui",
   "version": "0.1.0",
-  "homepage": "https://[hopper2021].github.io/ranking-of-champions-ui",
+  "homepage": "https://Hopper2021.github.io/ranking-of-champions-ui",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",
